@@ -1,2 +1,6 @@
 this is newfile added
+<<<<<<< HEAD
 updated in local file
+This is a 3 way merge
+This is server update
+>>>>>>> b3dccf27b1556e4d2ca0b1cf437a52c3999b239e
